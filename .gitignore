@@ -2,3 +2,5 @@
 /.venv/Scripts
 .venv/pyvenv.cfg
 .venv/CACHEDIR.TAG
+.idea
+
